@@ -5,7 +5,7 @@ using UnityEngine;
 public class CarMovement : MonoBehaviour
 {
    public float Vspeed = 20;
-    public float Hspeed = 10;
+   public float Hspeed = 10;
 
     // Start is called before the first frame update
     void Start()
